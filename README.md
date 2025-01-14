@@ -2,15 +2,9 @@
 
 **`FullStack Developer`**
 
-<h2 align="left">About Me</h2>
-
 ###
 
 <p align="left">- Undergraduate in Computer Engineering<br>- Python Developer<br>- Data Analyst</p>
-
-###
-
-<h2 align="left">Social Media</h2>
 
 ###
 
